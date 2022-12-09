@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-
-Console.WriteLine("Welcome to day one");
+﻿Console.WriteLine("Welcome to day one");
 
 // Part 1
 var file = File.ReadAllLines("C:\\dev\\AoC 2022\\Day1\\Day1\\input.txt");
